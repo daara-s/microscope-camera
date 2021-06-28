@@ -15,7 +15,7 @@ Ideal scenario: Wi-Fi-enabled high speed image collection and cloud sync
 
 ## Solutions
 There are multiple ways to tackle the problem, from focusing on ease of use, 
-affordability, to mondularity and programmability.
+affordability, to modularity and programmability.
 This project exploration will start with required materials.
 
 ### Mounting
